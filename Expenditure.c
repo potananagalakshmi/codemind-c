@@ -7,7 +7,7 @@ int main()
     if(c<=a)
     {
         printf("YES");
-    }    
+    }
     else
     {
         printf("NO");
